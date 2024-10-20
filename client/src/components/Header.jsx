@@ -15,7 +15,7 @@ const StyledAppBar = styled(AppBar)({
 })
 
 const Header = () => {
-    const logo = "https://ibb.co/4VptdHS";
+    const logo = "https://get-staffed.com/wp-content/uploads/2020/07/indeed-logo.png";
 
     return (
         <StyledAppBar>
